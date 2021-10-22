@@ -17,8 +17,8 @@ Added mods:
 Remove unused free space in the quick settings bottom (xiaomi.eu)
 Increase battery font size
 
-## Support/Discussion URL / Страница программы: 
-[Link](https://4pda.to/forum/index.php?s=&showtopic=603033&view=findpost&p=110326560)
+## Support/Discussion URL / РЎС‚СЂР°РЅРёС†Р° РїСЂРѕРіСЂР°РјРјС‹: 
+[4pda](https://4pda.to/forum/index.php?s=&showtopic=603033&view=findpost&p=110326560)
 
 ## Author
 [MikeZh](https://4pda.to/forum/index.php?showuser=683427), 2021
